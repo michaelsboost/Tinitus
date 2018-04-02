@@ -16,7 +16,7 @@ MIT
 Availability
 -------------
 
-**Stable Releases**  *(Links coming soon)*
+**Stable Releases**  
 [Android](https://sourceforge.net/projects/tinitus/files/tinitus-android.apk/download)  
 [Windows Phone](https://sourceforge.net/projects/tinitus/files/tinitus-winphone.appx/download)  
 [Windows 64](https://sourceforge.net/projects/tinitus/files/tinitus-win.zip/download)  
