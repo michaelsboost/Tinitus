@@ -48,6 +48,8 @@ Closing Tinitus:
 Development
 -------------
 
+Tinitus is an abandoned project!
+
 Of course Tinitus is free and open source, so you can always fork the project and have fun :)
 
 If you enjoyed Tinitus at all. You can show your appreciation by [Donating via SquareCash](https://cash.me/$michaelsboost) and/or [PayPal](https://www.paypal.me/mikethedj4)
